@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/Comp-1.gif)
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">I make robots perceive how beautiful the world is *)</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
+<img align="right" alt="Coding" width="350" src="[https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif](https://techsable.com/wp-content/uploads/2018/10/Tehsable.com-minion.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan&label=Profile%20views&color=0e75b6&style=flat" alt="chandan" /> </p>
 
