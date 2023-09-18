@@ -1,11 +1,11 @@
-![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*bhFifratH9DjKqMBTeQG5A.gif](https://miro.medium.com/v2/resize:fit:1100/1*36MELEhgZsPFuzlZvObnxA.gif))
+![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/Comp-1.gif)
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">I make robots perceive how beautiful the world is *)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan&label=Profile%20views&color=0e75b6&style=flat" alt="chandan" /> </p>
 
-- 🔭 I’m currently working on [Final Year Project](https://github.com/Chandan-Kumar0211/Object_Tracking_along_with_Speed_and_Distance_Estimation_using_Monocular_camera_for_ADAS)
+- 🔭 I’m currently working on [Project related to ADAS](https://github.com/Chandan-Kumar0211/Object_Tracking_along_with_Speed_and_Distance_Estimation_using_Monocular_camera_for_ADAS)
 
 - 🌱 I’m currently learning **whatever stuffs involved in Perception domain**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandank0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
