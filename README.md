@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Project related to ADAS](https://github.com/Chandan-Kumar0211/Object_Tracking_along_with_Speed_and_Distance_Estimation_using_Monocular_camera_for_ADAS)
 
-- 🌱 I’m currently learning **whatever stuffs involved in Perception domain**
+- 🌱 I’m currently learning **the technical stacks involved in Perception domain.**
 
 - 💬 Ask me about **AI, Robotics**
 
