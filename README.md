@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*bhFifratH9DjKqMBTeQG5A.gif)
+![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*bhFifratH9DjKqMBTeQG5A.gif](https://miro.medium.com/v2/resize:fit:1100/1*36MELEhgZsPFuzlZvObnxA.gif))
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">I make robots perceive how beautiful the world is *)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
