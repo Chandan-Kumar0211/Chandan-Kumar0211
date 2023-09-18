@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/Comp-1.gif)
-<h1 align="center">Hi 👋, I'm Chandan</h1>
+<h1 align="center">Aloha👋, This is Chandan!</h1>
 <h3 align="center">I make robots perceive how beautiful the world is *)</h3>
 <img align="right" alt="Coding" width="350" height="300" src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47a22s1ai0hr9jdyu5mhjq4yr2yfq2s1wc88lbn2mh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
