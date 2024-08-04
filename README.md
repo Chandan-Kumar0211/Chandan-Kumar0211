@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **the technical stacks involved in Perception domain**
 
-- 💬 Ask me about **AI, Robotics**
+- 💬 Ask me about **Deep Learning, Computer Vision** and basic of **NLP and Robotics**
 
 - 📫 How to reach me **mfd19i018@iiitdm.ac.in**
 
