@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan&label=Profile%20views&color=0e75b6&style=flat" alt="chandan" /> </p>
 
-- 🔭 I’m currently working on [Project related to ADAS](https://github.com/Chandan-Kumar0211/Object_Tracking_along_with_Speed_and_Distance_Estimation_using_Monocular_camera_for_ADAS)
+- 🔭 I’m currently working as a Computer Vision Engineer at TrashBotics Tech.
 
-- 🌱 I’m currently learning **the technical stacks involved in Perception domain**
+- 🌱 I enjoy learning **the technical stacks involved in Perception domain**
 
 - 💬 Ask me about **Deep Learning, Computer Vision** and basic of **NLP and Robotics**
 
