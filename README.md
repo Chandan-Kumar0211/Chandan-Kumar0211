@@ -1,16 +1,16 @@
 <h1 align="center">Hey👋, This is Chandan!</h1>
-<h3 align="center">I make robots perceive how beautiful the world is *)</h3>
+<h3 align="center">I believe in building something concrete than cool *)</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan&label=Profile%20views&color=0e75b6&style=flat" alt="chandan" /> </p>
 
-- 🔭 I’m currently working as a Computer Vision Engineer at TrashBotics Tech.
+- 🔭 I’m currently working as a Associate Software Engineer (R&D) at Zentron Labs
 
-- 🌱 I enjoy learning **the technical stacks involved in Perception domain**
+- 🌱 I enjoy learning under the hood stuffs more than building on top of that.
 
-- 💬 Ask me about **Deep Learning, Computer Vision** and basic of **NLP and Robotics**
+- 💬 Ask me about **NLP, Computer Vision** and basic of **Robotics**
 
-- 📫 How to reach me **mfd19i018@iiitdm.ac.in**
+- 📫 My email: **chandanyadav0211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
